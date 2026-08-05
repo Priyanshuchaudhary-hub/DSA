@@ -40,7 +40,7 @@ Every solution is written with clean, readable, and optimized Java code.
 
 # 🎯 Goals
 
-- Solve 500+ DSA Problems
+- Solve 450+ DSA Problems
 - Master Java for Competitive Programming
 - Improve Algorithmic Thinking
 - Crack Technical Interviews

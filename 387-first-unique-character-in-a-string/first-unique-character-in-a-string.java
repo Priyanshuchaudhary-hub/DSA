@@ -5,6 +5,7 @@ class Solution {
             char ch = s.charAt(i);
 
             if(s.indexOf(ch) == s.lastIndexOf(ch)){
+                System.out.println(ch);
                 return i;
             }
         }

@@ -123,7 +123,7 @@ This repository is primarily for my learning journey. Suggestions and improvemen
 
 🎓 B.Tech (AI & Data Science)
 
-☕ Java Developer
+☕ Java Developer,Python,SQL 
 
 📊 Data Science & AI Enthusiast
 

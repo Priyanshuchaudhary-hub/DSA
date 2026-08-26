@@ -4,6 +4,7 @@ class Solution {
             char ch = s.charAt(i);
             if(s.indexOf(ch) == s.lastIndexOf(ch)){
                 return i;
+                // time complexity O(N^2).
             }
         }
         return -1;

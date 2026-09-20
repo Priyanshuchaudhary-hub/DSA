@@ -132,3 +132,15 @@ This repository is primarily for my learning journey. Suggestions and improvemen
 ## ⭐ If you find this repository helpful, consider giving it a Star!
 
 It motivates me to keep solving and sharing more DSA problems.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3536-maximum-product-of-two-digits](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3536-maximum-product-of-two-digits](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+<!---LeetCode Topics End-->

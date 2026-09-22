@@ -165,4 +165,8 @@ It motivates me to keep solving and sharing more DSA problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/0020-valid-parentheses/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0175-combine-two-tables](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/0175-combine-two-tables/) | Easy |
 <!---LeetCode Topics End-->

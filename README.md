@@ -153,4 +153,16 @@ It motivates me to keep solving and sharing more DSA problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3524-find-x-value-of-array-i](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/3524-find-x-value-of-array-i/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/0020-valid-parentheses/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/0020-valid-parentheses/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->

@@ -138,6 +138,7 @@ It motivates me to keep solving and sharing more DSA problems.
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/0007-reverse-integer/) | Medium |
 | [3524-find-x-value-of-array-i](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Sorting

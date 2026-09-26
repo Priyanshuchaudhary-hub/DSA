@@ -145,11 +145,13 @@ It motivates me to keep solving and sharing more DSA problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/0075-sort-colors/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/0075-sort-colors/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [3524-find-x-value-of-array-i](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/3524-find-x-value-of-array-i/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -175,6 +177,7 @@ It motivates me to keep solving and sharing more DSA problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/0075-sort-colors/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -183,4 +186,12 @@ It motivates me to keep solving and sharing more DSA problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/0075-sort-colors/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 <!---LeetCode Topics End-->

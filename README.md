@@ -139,6 +139,7 @@ It motivates me to keep solving and sharing more DSA problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/0007-reverse-integer/) | Medium |
+| [0509-fibonacci-number](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/0509-fibonacci-number/) | Easy |
 | [3524-find-x-value-of-array-i](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Sorting
@@ -156,6 +157,7 @@ It motivates me to keep solving and sharing more DSA problems.
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/0509-fibonacci-number/) | Easy |
 | [3524-find-x-value-of-array-i](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/3524-find-x-value-of-array-i/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -194,4 +196,12 @@ It motivates me to keep solving and sharing more DSA problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/0509-fibonacci-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->

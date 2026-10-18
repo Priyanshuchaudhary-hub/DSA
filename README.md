@@ -141,6 +141,7 @@ It motivates me to keep solving and sharing more DSA problems.
 | [0007-reverse-integer](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/0007-reverse-integer/) | Medium |
 | [0509-fibonacci-number](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/0509-fibonacci-number/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/1137-n-th-tribonacci-number/) | Easy |
+| [2235-add-two-integers](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/2235-add-two-integers/) | Easy |
 | [3524-find-x-value-of-array-i](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Sorting

@@ -139,6 +139,7 @@ It motivates me to keep solving and sharing more DSA problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/0007-reverse-integer/) | Medium |
+| [0258-add-digits](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/0258-add-digits/) | Easy |
 | [0509-fibonacci-number](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/0509-fibonacci-number/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [2235-add-two-integers](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/2235-add-two-integers/) | Easy |
@@ -208,4 +209,12 @@ It motivates me to keep solving and sharing more DSA problems.
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/0509-fibonacci-number/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/1137-n-th-tribonacci-number/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/0258-add-digits/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/0258-add-digits/) | Easy |
 <!---LeetCode Topics End-->

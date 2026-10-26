@@ -155,6 +155,7 @@ It motivates me to keep solving and sharing more DSA problems.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/0075-sort-colors/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [3524-find-x-value-of-array-i](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/3524-find-x-value-of-array-i/) | Medium |
@@ -162,6 +163,7 @@ It motivates me to keep solving and sharing more DSA problems.
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0509-fibonacci-number](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/0509-fibonacci-number/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [3524-find-x-value-of-array-i](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/3524-find-x-value-of-array-i/) | Medium |
@@ -223,4 +225,8 @@ It motivates me to keep solving and sharing more DSA problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->

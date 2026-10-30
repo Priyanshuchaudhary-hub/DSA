@@ -158,6 +158,7 @@ It motivates me to keep solving and sharing more DSA problems.
 | [0053-maximum-subarray](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/0075-sort-colors/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [2185-counting-words-with-a-given-prefix](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 | [3524-find-x-value-of-array-i](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Dynamic Programming
@@ -171,6 +172,7 @@ It motivates me to keep solving and sharing more DSA problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/0020-valid-parentheses/) | Easy |
+| [2185-counting-words-with-a-given-prefix](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -229,4 +231,8 @@ It motivates me to keep solving and sharing more DSA problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/0053-maximum-subarray/) | Medium |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2185-counting-words-with-a-given-prefix](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 <!---LeetCode Topics End-->

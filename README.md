@@ -235,4 +235,12 @@ It motivates me to keep solving and sharing more DSA problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0707-design-linked-list](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/0707-design-linked-list/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0707-design-linked-list](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/0707-design-linked-list/) | Medium |
 <!---LeetCode Topics End-->

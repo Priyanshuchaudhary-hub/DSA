@@ -191,6 +191,7 @@ It motivates me to keep solving and sharing more DSA problems.
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/0075-sort-colors/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Quicksort
@@ -205,6 +206,7 @@ It motivates me to keep solving and sharing more DSA problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -246,6 +248,7 @@ It motivates me to keep solving and sharing more DSA problems.
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0707-design-linked-list](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/0707-design-linked-list/) | Medium |
 ## Design
 | Problem Name | Difficulty |
@@ -255,4 +258,5 @@ It motivates me to keep solving and sharing more DSA problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/0142-linked-list-cycle-ii/) | Medium |
 <!---LeetCode Topics End-->

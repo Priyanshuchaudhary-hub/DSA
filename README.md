@@ -190,6 +190,7 @@ It motivates me to keep solving and sharing more DSA problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/0075-sort-colors/) | Medium |
+| [0141-linked-list-cycle](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Quicksort
@@ -203,6 +204,7 @@ It motivates me to keep solving and sharing more DSA problems.
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -243,9 +245,14 @@ It motivates me to keep solving and sharing more DSA problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0141-linked-list-cycle](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0707-design-linked-list](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/0707-design-linked-list/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0707-design-linked-list](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/0707-design-linked-list/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->

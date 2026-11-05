@@ -212,6 +212,7 @@ It motivates me to keep solving and sharing more DSA problems.
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0509-fibonacci-number](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
@@ -241,6 +242,7 @@ It motivates me to keep solving and sharing more DSA problems.
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0707-design-linked-list](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/0707-design-linked-list/) | Medium |
 ## Design
 | Problem Name | Difficulty |

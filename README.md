@@ -140,6 +140,7 @@ It motivates me to keep solving and sharing more DSA problems.
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/0007-reverse-integer/) | Medium |
 | [0258-add-digits](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/0258-add-digits/) | Easy |
+| [0365-water-and-jug-problem](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/0365-water-and-jug-problem/) | Medium |
 | [0509-fibonacci-number](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/0509-fibonacci-number/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [2235-add-two-integers](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/2235-add-two-integers/) | Easy |
@@ -259,4 +260,28 @@ It motivates me to keep solving and sharing more DSA problems.
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/0142-linked-list-cycle-ii/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0365-water-and-jug-problem](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/0365-water-and-jug-problem/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0365-water-and-jug-problem](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/0365-water-and-jug-problem/) | Medium |
+## Bézout's Lemma
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0365-water-and-jug-problem](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/0365-water-and-jug-problem/) | Medium |
+## Euclidean Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0365-water-and-jug-problem](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/0365-water-and-jug-problem/) | Medium |
+## Greatest Common Divisor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0365-water-and-jug-problem](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/0365-water-and-jug-problem/) | Medium |
+## Extended Euclidean Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0365-water-and-jug-problem](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/0365-water-and-jug-problem/) | Medium |
 <!---LeetCode Topics End-->

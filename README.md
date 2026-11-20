@@ -174,11 +174,13 @@ It motivates me to keep solving and sharing more DSA problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/0020-valid-parentheses/) | Easy |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/0020-valid-parentheses/) | Easy |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |

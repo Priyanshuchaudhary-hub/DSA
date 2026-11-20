@@ -166,6 +166,7 @@ It motivates me to keep solving and sharing more DSA problems.
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/0022-generate-parentheses/) | Medium |
 | [0053-maximum-subarray](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0509-fibonacci-number](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/0509-fibonacci-number/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/1137-n-th-tribonacci-number/) | Easy |
@@ -174,6 +175,7 @@ It motivates me to keep solving and sharing more DSA problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/0022-generate-parentheses/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 ## Stack
@@ -185,6 +187,7 @@ It motivates me to keep solving and sharing more DSA problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/0022-generate-parentheses/) | Medium |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -286,4 +289,8 @@ It motivates me to keep solving and sharing more DSA problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0365-water-and-jug-problem](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/0365-water-and-jug-problem/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->

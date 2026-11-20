@@ -141,6 +141,7 @@ It motivates me to keep solving and sharing more DSA problems.
 | [0007-reverse-integer](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/0007-reverse-integer/) | Medium |
 | [0258-add-digits](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/0258-add-digits/) | Easy |
 | [0365-water-and-jug-problem](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/0365-water-and-jug-problem/) | Medium |
+| [0367-valid-perfect-square](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/0367-valid-perfect-square/) | Easy |
 | [0509-fibonacci-number](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/0509-fibonacci-number/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [2235-add-two-integers](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/2235-add-two-integers/) | Easy |
@@ -219,6 +220,7 @@ It motivates me to keep solving and sharing more DSA problems.
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0367-valid-perfect-square](https://github.com/Priyanshuchaudhary-hub/DSA/tree/main/0367-valid-perfect-square/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
